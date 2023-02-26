@@ -1,0 +1,5 @@
+﻿You have recently started your job as Software Engineer and wish to buy and Iphone for yourself as a gift 
+for all the hardwork you've done to get this job. Amazon has various products listed on their website. You go to
+amazon website and look for Iphone 14 Max Pro. However, the product is not available. To get the notification when
+the Iphone will be available, you click on NotifyMe. While you wait for the Iphone to be available, implement
+this NotifyMe feature.
